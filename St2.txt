@@ -1,0 +1,11 @@
+Install Code Runner extension in VS Code
+
+Now we have our compiler set up, let's install Code Runner
+
+Code Runner allows you to Run code snippet or code file for multiple languages:
+
+C, C++, Java, JavaScript, PHP, Python, Perl, Perl 6, Ruby, Go, Lua, Groovy, PowerShell, BAT/CMD, BASH/SH, F# Script, F# (.NET Core), C# Script, C# (.NET Core), VBScript, TypeScript, CoffeeScript, Scala, Swift, Julia, Crystal, OCaml Script, R, AppleScript, Elixir, Visual Basic .NET, Clojure, Haxe, Objective-C, Rust, Racket, AutoHotkey, AutoIt, Kotlin, Dart, Free Pascal, Haskell, Nim, D, Lisp, Kit, and custom command.
+
+Click here to download
+
+Or search in VsCode marketplace tab
