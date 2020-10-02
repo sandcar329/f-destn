@@ -1,0 +1,9 @@
+To stop the running code
+
+Use the shortcut Ctrl+Alt+M
+
+Or press F1 and then select/type Stop Code Run
+
+Or right-click the Output Channel and then click Stop Code Run in the context menu
+
+Hurray, you just successfully set up your C++ environment in VsCode!
