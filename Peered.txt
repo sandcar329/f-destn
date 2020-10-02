@@ -1,0 +1,11 @@
+Prerequisites
+
+Prior knowledge of C++
+
+(I assume you're learning C++, about to start learning, or just reading this for fun. This article is not a C++ 101 tutorial – some understanding of C++ is needed.)
+
+Visual Studio Code Editor
+
+Download here and read the setup docs for Windows, Linux and Mac
+
+Internet connection (!important)
